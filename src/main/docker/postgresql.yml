@@ -1,0 +1,12 @@
+version: '2'
+services:
+    messageservice-postgresql:
+        container_name: messageservice-postgresql
+        image: postgres:9.5.2
+        # volumes:
+        #     - ~/volumes/jhipster/MessageService/postgresql/:/var/lib/postgresql/
+        environment:
+            - POSTGRES_USER=MessageService
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
