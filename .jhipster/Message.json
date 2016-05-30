@@ -1,0 +1,14 @@
+{
+  "relationships": [],
+  "fields": [
+    {
+      "fieldId": 1,
+      "fieldName": "content",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20160530071216",
+  "dto": "no",
+  "pagination": "no",
+  "service": "serviceClass"
+}
