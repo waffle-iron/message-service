@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ExtremeEnvironment/message-service.png?label=ready&title=Ready)](https://waffle.io/ExtremeEnvironment/message-service)
 [![Build Status](https://travis-ci.org/ExtremeEnvironment/message-service.svg?branch=master)](https://travis-ci.org/ExtremeEnvironment/message-service)
 
 # MessageService
